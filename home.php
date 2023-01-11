@@ -79,6 +79,7 @@
                 <a href="#"><i class="fab fa-linkedin"></i>Linkedin</a>
             </div>
         </div>
+        <div class="credit">Created by<span> VIK </span>|ALL RIGHTS RESERVED!</div>
     </section>
     <!-- footer section ends -->
 
