@@ -37,11 +37,56 @@
     <!-- header section ends -->
 
 
+
+
+
+
+    <!-- footer section starts -->
+    <section class="footer">
+        <div class="box-container">
+            <div class="box">
+                <h3>Quick Links</h3>
+                <a href="home.php"><i class="fas fa-angle-right"></i>Home</a>
+                <a href="about.php"><i class="fas fa-angle-right"></i>About</a>
+                <a href="package.php"><i class="fas fa-angle-right"></i>Packages</a>
+                <a href="book.php"><i class="fas fa-angle-right"></i>Book</a>
+            </div>
+
+            <div class="box">
+                <h3>Extra Links</h3>
+                <a href="#"><i class="fas fa-angle-right"></i>Ask questions</a>
+                <a href="#"><i class="fas fa-angle-right"></i>Tour operators</a>
+                <a href="#"><i class="fas fa-angle-right"></i>Privacy policy</a>
+                <a href="#"><i class="fas fa-angle-right"></i>Terms of use</a>
+            </div>
+
+            <div class="box">
+                <h3>Contact info</h3>
+                <a href="#"><i class="fas fa-phone"></i>+359 878 455 123</a>
+                <a href="#"><i class="fas fa-envelope"></i>velislavaas@gmail.com</a>
+                <a href="#"><i class="fas fa-phone"></i>+359 899 334 237</a>
+                <a href="#"><i class="fas fa-envelope"></i>ivailojv@gmail.com</a>
+                <a href="#"><i class="fas fa-phone"></i>+359 882 788 690</a>
+                <a href="#"><i class="fas fa-envelope"></i>kameliqya@gmail.com</a>
+                <a href="#"><i class="fas fa-map"></i>Dobrich,Bulgaria</a>
+            </div>
+
+            <div class="box">
+                <h3>Follow us</h3>
+                <a href="#"><i class="fab fa-facebook"></i>Facebook</a>
+                <a href="#"><i class="fab fa-twitter"></i>Twitter</a>
+                <a href="#"><i class="fab fa-instagram"></i>Instagram</a>
+                <a href="#"><i class="fab fa-linkedin"></i>Linkedin</a>
+            </div>
+        </div>
+    </section>
+    <!-- footer section ends -->
+
     <!-- swiper js link -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
 
     <!--custom js file link -->
-<script src="js/script.js"></script>
+<script src="script.js"></script>
 
 </body>
 </html>
