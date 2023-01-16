@@ -559,19 +559,27 @@ section{
     line-height: 2;
     padding:1rem 0;
 }
-.terms .book-form{
+.ask p {
+    font-size: 2rem;
+    color: var(--light-black);
+    line-height: 2;
+    padding: 1rem 0;
+    text-transform: uppercase;
+    text-align: center;
+}
+.ask .book-form{
     padding: 2rem;
     background: var(--light-bg);
 }
-.terms .book-form .flex{
+.ask .book-form .flex{
     display: flex;
     flex-wrap: wrap;
     gap: 2rem;
 }
-.terms .book-form .flex .inputBox{
+.ask .book-form .flex .inputBox{
     flex: 1 1 41rem;
 }
-.terms .book-form .flex .inputBox input{
+.ask .book-form .flex .inputBox input{
     width: 100%;
     padding: 1.2rem 1.4rem;
     font-size: 1.6rem;
@@ -580,18 +588,18 @@ section{
     margin-top: 1.5rem;
     border: var(--border);
 }
-.terms .book-form .flex .inputBox input:focus{
+.ask .book-form .flex .inputBox input:focus{
     background: var(--black);
     color: var(--white);
 }
-.terms .book-form .flex .inputBox input:focus::placeholder{
+.ask .book-form .flex .inputBox input:focus::placeholder{
     color: var(--light-white);
 }
-.terms .book-form .flex .inputBox span{
+.ask .book-form .flex .inputBox span{
     font-size: 1.5rem;
     color: var(--light-black);
 }
-.terms .book-form .btn{
+.ask .book-form .btn{
     margin-top: 2rem ;
 }
 

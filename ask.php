@@ -37,9 +37,9 @@
 <!-- header section ends -->
 
 <!-- booking section starts-->
-<section class="terms">
+<section class="ask">
     <h1 class="heading-title">Ask questions!</h1>
-    <h4>Customer Service Department. We are available 24/7.</h4>
+    <p>Customer Service Department. We are available 24/7.</p>
     <form action="book_form.php" method="post" class="book-form">
         <div class="flex">
             <div class="inputBox">
@@ -104,10 +104,10 @@
 
         <div class="box">
             <h3>Follow us</h3>
-            <a href="#"><i class="fab fa-facebook"></i>Facebook</a>
-            <a href="#"><i class="fab fa-twitter"></i>Twitter</a>
-            <a href="#"><i class="fab fa-instagram"></i>Instagram</a>
-            <a href="#"><i class="fab fa-linkedin"></i>Linkedin</a>
+            <a href="https://www.facebook.com/"><i class="fab fa-facebook"></i>Facebook</a>
+            <a href="https://twitter.com/"><i class="fab fa-twitter"></i>Twitter</a>
+            <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i>Instagram</a>
+            <a href="https://www.linkedin.com/"><i class="fab fa-linkedin"></i>Linkedin</a>
         </div>
     </div>
     <div class="credit">Created by<span> VIK </span>|ALL RIGHTS RESERVED!</div>
