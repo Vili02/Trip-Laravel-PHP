@@ -38,6 +38,153 @@
 <div class="heading" style="background: url(images/header-bg-2.png) no-repeat">
     <h1>Packages</h1>
 </div>
+<!-- packages section starts -->
+<section class="packages">
+    <h1 class="heading-title">Top destinations</h1>
+    <div class="box-container">
+        <div class="box">
+            <div class="image">
+                <img src="images/img-1.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & Tour</h3>
+                <p>Plovdiv is the second largest and most important city of the Republic of Bulgaria.</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/img-2.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & Tour</h3>
+                <p>Veliko Turnovo is the rich cultural and historical heritage and an important tourist center.</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/img-3.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & Tour</h3>
+                <p>Sofia is the beautiful capital and largest city of the Republic of Bulgaria.</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/img-4.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & Tour</h3>
+                <p>Dubai's combination of relaxing resorts, desert experiences, adventure and high-end malls make
+                    the city the perfect destination for a long overdue getaway.</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+        <div class="box">
+            <div class="image">
+                <img src="images/img-5.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & Tour</h3>
+                <p>The historic center of Rome is part of the UNESCO cultural heritage with its charming palaces,
+                    Roman ruins, exquisite statues and thousand-year-old basilicas</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/img-6.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & Tour</h3>
+                <p>Paris excites all the senses, demanding to be seen, heard, touched, tasted and smelled.
+                    The legendary "city of lights" or "city of love".</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/img-7.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & Tour</h3>
+                <p>Greece is a unique country in the southern part of the Balkan Peninsula with a rich historical heritage,
+                    picturesque nature and a mild subtropical climate.</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/img-8.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & Tour</h3>
+                <p>Thailand has a large number of small picturesque islands and beautiful beaches that
+                    are important tourist destinations.The land of freedom!</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/img-9.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & Tour</h3>
+                <p>The Maldives is stunningly diverse and is an archipelago of twenty atolls in the equatorial waters
+                    of the Indian Ocean, just south of the island of Sri Lanka.</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/img-10.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & Tour</h3>
+                <p>Varna is called the "sea capital" of Bulgaria and is an important tourist and educational center.</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/img-11.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & Tour</h3>
+                <p>Bansko is an internationally famous mountain resort that attracts numerous tourists from Bulgaria.</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/img-12.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & Tour</h3>
+                <p>Dobrich is an administrative and economic center in Northeastern Bulgaria.</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+    </div>
+    <div class="load-more">
+        <span class="btn">Load more</span>
+    </div>
+</section>
+
+<!-- packages section ends -->
 
 
 
@@ -65,12 +212,11 @@
         <div class="box">
             <h3>Contact info</h3>
             <a href="#"><i class="fas fa-phone"></i>+359 878 455 123</a>
-            <a href="#"><i class="fas fa-envelope"></i>velislavaas@gmail.com</a>
+            <a href="#"><i class="fas fa-envelope"></i>velislava@gmail.com</a>
             <a href="#"><i class="fas fa-phone"></i>+359 899 334 237</a>
-            <a href="#"><i class="fas fa-envelope"></i>ivailojv@gmail.com</a>
+            <a href="#"><i class="fas fa-envelope"></i>ivailo@gmail.com</a>
             <a href="#"><i class="fas fa-phone"></i>+359 882 788 690</a>
-            <a href="#"><i class="fas fa-envelope"></i>kameliqya@gmail.com</a>
-            <a href="#"><i class="fas fa-map"></i>Dobrich,Bulgaria</a>
+            <a href="#"><i class="fas fa-envelope"></i>kameliq@gmail.com</a>
         </div>
 
         <div class="box">

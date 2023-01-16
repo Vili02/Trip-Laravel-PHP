@@ -85,11 +85,6 @@
             </div>
 
             <div class="box">
-                <img src="images/icon-3.png" alt="">
-                <h3>Trekking</h3>
-            </div>
-
-            <div class="box">
                 <img src="images/icon-4.png" alt="">
                 <h3>Camp fire</h3>
             </div>
@@ -120,10 +115,6 @@
                 to explore the world by offering good quality and service. TravelExpress offers millions of travelers
                 unforgettable experiences, a wide choice of transportation options and amazing places
                 to stay both in Bulgaria and beyond its borders.</p>
-            <p>As one of the world's largest travel marketplaces for both established names and entrepreneurs of all sizes,
-                TravelExpress enables accommodations around the world to reach a global audience and grow their business.
-                No matter where you want to go and what you want to do, TravelExpress will make it easy
-                and available 24/7 thanks to the customer service team.</p>
             <a href="about.php" class="btn">Read more</a>
         </div>
     </section>
@@ -213,12 +204,11 @@
             <div class="box">
                 <h3>Contact info</h3>
                 <a href="#"><i class="fas fa-phone"></i>+359 878 455 123</a>
-                <a href="#"><i class="fas fa-envelope"></i>velislavaas@gmail.com</a>
+                <a href="#"><i class="fas fa-envelope"></i>velislava@gmail.com</a>
                 <a href="#"><i class="fas fa-phone"></i>+359 899 334 237</a>
-                <a href="#"><i class="fas fa-envelope"></i>ivailojv@gmail.com</a>
+                <a href="#"><i class="fas fa-envelope"></i>ivailo@gmail.com</a>
                 <a href="#"><i class="fas fa-phone"></i>+359 882 788 690</a>
-                <a href="#"><i class="fas fa-envelope"></i>kameliqya@gmail.com</a>
-                <a href="#"><i class="fas fa-map"></i>Dobrich,Bulgaria</a>
+                <a href="#"><i class="fas fa-envelope"></i>kameliq@gmail.com</a>
             </div>
 
             <div class="box">

@@ -39,6 +39,54 @@
     <h1>Book now</h1>
 </div>
 
+<!-- booking section starts-->
+<section class="booking">
+    <h1 class="heading-title">Book your trip!</h1>
+    <form action="book_form.php" method="post" class="book-form">
+        <div class="flex">
+            <div class="inputBox">\
+            <span>Name:</span>
+            <input type="text" placeholder="Enter your name.." name="name">
+            </div>
+
+            <div class="inputBox">\
+                <span>Email:</span>
+                <input type="email" placeholder="Enter your email.." name="email">
+            </div>
+
+            <div class="inputBox">\
+                <span>Phone number:</span>
+                <input type="number" placeholder="Enter your phone number.." name="number">
+            </div>
+
+            <div class="inputBox">\
+                <span>Address:</span>
+                <input type="address" placeholder="Enter your address.." name="address">
+            </div>
+
+            <div class="inputBox">\
+                <span>Where to:</span>
+                <input type="text" placeholder="Place you want to visit.." name="location">
+            </div>
+
+            <div class="inputBox">\
+                <span>Arrivals:</span>
+                <input type="date" name="arrivals">
+            </div>
+
+            <div class="inputBox">\
+                <span>Leaving:</span>
+                <input type="date" name="leaving">
+            </div>
+        </div>
+
+        <input type="submit" value="submit" class="btn" name="Send"
+    </form>
+</section>
+
+<!-- booking section ends-->
+
+
 
 
 
@@ -64,12 +112,11 @@
         <div class="box">
             <h3>Contact info</h3>
             <a href="#"><i class="fas fa-phone"></i>+359 878 455 123</a>
-            <a href="#"><i class="fas fa-envelope"></i>velislavaas@gmail.com</a>
+            <a href="#"><i class="fas fa-envelope"></i>velislava@gmail.com</a>
             <a href="#"><i class="fas fa-phone"></i>+359 899 334 237</a>
-            <a href="#"><i class="fas fa-envelope"></i>ivailojv@gmail.com</a>
+            <a href="#"><i class="fas fa-envelope"></i>ivailo@gmail.com</a>
             <a href="#"><i class="fas fa-phone"></i>+359 882 788 690</a>
-            <a href="#"><i class="fas fa-envelope"></i>kameliqya@gmail.com</a>
-            <a href="#"><i class="fas fa-map"></i>Dobrich,Bulgaria</a>
+            <a href="#"><i class="fas fa-envelope"></i>kameliq@gmail.com</a>
         </div>
 
         <div class="box">

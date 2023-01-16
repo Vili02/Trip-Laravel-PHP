@@ -38,9 +38,89 @@
 <div class="heading" style="background: url(images/header-bg-1.png) no-repeat">
     <h1>About us</h1>
 </div>
+<!-- about section starts -->
+    <section class="about">
+        <div class="image">
+            <img src="images/about-img.jpg" alt="">
+        </div>
+        <div class="content">
+            <h3>Why choose us?</h3>
+            <p>About TravelExpress™
+                Founded in 2022 in Dobrich, TravelExpress has grown from a small Bulgarian
+                startup to one of the world's leading online travel companies.</p>
+            <p>As one of the world's largest travel marketplaces for both established names and entrepreneurs of all sizes,
+                TravelExpress enables accommodations around the world to reach a global audience and grow their business.
+                No matter where you want to go and what you want to do, TravelExpress will make it easy
+                and available 24/7 thanks to the customer service team.</p>
+         <div class="icons-container">
+            <div class="icons">
+                <i class="fas fa-map"></i>
+                <span>Top destinations</span>
+            </div>
+            <div class="icons">
+                <i class="fas fa-hand-holding-usd"></i>
+                <span>Affordable prices</span>
+            </div>
+            <div class="icons">
+                <i class="fas fa-headset"></i>
+                <span>24/7 Guide service</span>
+            </div>
+         </div>
+        </div>
+    </section>
 
+<!-- about section ends -->
 
+<!-- reviews section starts -->
+<section class="reviews">
+    <h1 class="heading-title">Clients Reviews</h1>
+    <div class=" swiper reviews-slider">
 
+        <div class="swiper-wrapper">
+
+            <div class="swiper-slide slide">
+                <div class="stars">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                 </div>
+            <p>Here you can find the best trips! I strongly recommend!</p>
+            <h3>Nikolai Jivkov</h3>
+            <span>Traveler</span>
+             <img src="images/pic-1.jpg" alt="">
+            </div>
+
+            <div class="swiper-slide slide">
+                <div class="stars">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                </div>
+                <p>That was awesome! I want again for sure. </p>
+                <h3>Izet</h3>
+                <span>Traveler</span>
+                <img src="images/pic-2.jpg" alt="">
+            </div>
+
+            <div class="swiper-slide slide">
+                <div class="stars">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                </div>
+                <p>Thank you TravelExpress for the nice destinations and offers</p>
+                <h3>Stilian Asparuhov</h3>
+                <span>Traveler</span>
+                <img src="images/pic-3.jpg" alt="">
+            </div>
+
+        </div>
+</section>
+
+<!-- reviews section ends -->
 
 
 <!-- footer section starts -->
@@ -65,12 +145,11 @@
         <div class="box">
             <h3>Contact info</h3>
             <a href="#"><i class="fas fa-phone"></i>+359 878 455 123</a>
-            <a href="#"><i class="fas fa-envelope"></i>velislavaas@gmail.com</a>
+            <a href="#"><i class="fas fa-envelope"></i>velislava@gmail.com</a>
             <a href="#"><i class="fas fa-phone"></i>+359 899 334 237</a>
-            <a href="#"><i class="fas fa-envelope"></i>ivailojv@gmail.com</a>
+            <a href="#"><i class="fas fa-envelope"></i>ivailo@gmail.com</a>
             <a href="#"><i class="fas fa-phone"></i>+359 882 788 690</a>
-            <a href="#"><i class="fas fa-envelope"></i>kameliqya@gmail.com</a>
-            <a href="#"><i class="fas fa-map"></i>Dobrich,Bulgaria</a>
+            <a href="#"><i class="fas fa-envelope"></i>kameliq@gmail.com</a>
         </div>
 
         <div class="box">
