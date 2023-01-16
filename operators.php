@@ -99,7 +99,7 @@
 
         <div class="box">
             <h3>Extra Links</h3>
-            <a href="#"><i class="fas fa-angle-right"></i>Ask questions</a>
+            <a href="ask.php"><i class="fas fa-angle-right"></i>Ask questions</a>
             <a href="operators.php"><i class="fas fa-angle-right"></i>Tour operators</a>
             <a href="privacypolicy.php"><i class="fas fa-angle-right"></i>Privacy policy</a>
             <a href="terms.php"><i class="fas fa-angle-right"></i>Terms of use</a>

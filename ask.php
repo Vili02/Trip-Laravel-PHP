@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Privacy policy</title>
+    <title>Book</title>
 
     <!--swiper css link -->
     <link rel="stylesheet"
@@ -22,7 +22,7 @@
 <body>
 <!-- header section starts -->
 <section class="header">
-    <a href="#" class="logo">TravelExpress</a>
+    <a href="home.php" class="logo">TravelExpress</a>
 
     <nav class="navbar">
         <a href="home.php">Home</a>
@@ -36,48 +36,41 @@
 
 <!-- header section ends -->
 
-</div>
-
-
-<!-- terms section starts -->
+<!-- booking section starts-->
 <section class="terms">
+    <h1 class="heading-title">Ask questions!</h1>
+    <h4>Customer Service Department. We are available 24/7.</h4>
+    <form action="book_form.php" method="post" class="book-form">
+        <div class="flex">
+            <div class="inputBox">
+                <span>Name:</span>
+                <input type="text" placeholder="Enter your name.." name="name">
+            </div>
 
-    <div class="content">
-        <h3>Terms of use</h3>
-        <p>1. When you complete your Booking, you accept these Terms and any other terms that you’re provided with
-            during the booking process.</p>
-        <p> 2. If anything in these Terms is (or becomes) invalid or, unenforceable:
-            it will still be enforced to the fullest extent permitted by law
-            you will still be bound by everything else in the Terms.</p>
-            <p>3. These Terms are laid out like this:
-            Section A: general terms, for all types of Travel Experiences.
-            Sections B: specific terms, for just one type of Travel Experience.
-            If there’s any mismatch between general and specific terms, the specific terms will apply.</p>
-            <p>4. The English version of these Terms is the original. If there’s any dispute about the Terms,
-            or any mismatch between the Terms in English and in another language, the Terms as they appear in English
-            will apply. </p>
-        <p>Our Platform:</p>
-            <p>1. We take reasonable care in providing our Platform, but we can’t guarantee that everything on it
-            is accurate (we get information from the Service Providers). To the extent permitted by law, we can’t
-            be held responsible for any errors, any interruptions, or any missing bits of information - although we
-            will do everything we can to correct/fix them as soon as we can.</p>
-            <p>2. Our Platform is not a recommendation or endorsement of any Service Provider or its products, services,
-            facilities, vehicles, etc.</p>
-            <p>3. We’re not a party to the terms between you and the Service Provider. The Service Provider is solely
-            responsible for the Travel Experience.</p>
-            <p>4. To make a Booking, you may need to create an Account. Please make sure all your info (including payment
-            and contact details) is correct and up to date, or you might find you can’t access your Travel Experience(s).
-            You’re responsible for anything that happens with your Account, so please don’t let anyone else use it,
-            and please keep your username and password secret.</p>
-            <p>5. We will show you the offers that are available to you, in (what we think is) the right language for you.
-            You can change to another language whenever you like.</p>
-            <p>6. Unless otherwise indicated, you need to be at least 16 to use the Platform.</p>
+            <div class="inputBox">
+                <span>Email:</span>
+                <input type="email" placeholder="Enter your email.." name="email">
+            </div>
 
-    </div>
+            <div class="inputBox">
+                <span>Phone number:</span>
+                <input type="number" placeholder="Enter your phone number.." name="number">
+            </div>
+
+            <div class="inputBox">
+                <span>Write your question:</span>
+                <input type="text" placeholder="Enter your question.." name="question">
+
+            </div>
+
+        <input type="submit" value="submit" class="btn" name="Send"
+    </form>
 </section>
 
+<!-- booking section ends-->
 
-<!-- terms section ends -->
+
+
 
 
 <!-- footer section starts -->
