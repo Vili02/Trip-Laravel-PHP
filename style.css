@@ -502,20 +502,15 @@ section{
 .operator{
     background: var(--light-bg);
 }
-
 .operator .box-container{
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    display:grid;
+    grid-template-columns: repeat(auto-fit, minmax(30rem,1fr));
     gap: 2rem;
 }
 .operator .box-container .box{
-    border:var(--border);
+    border: var(--border);
     box-shadow: var(--box-shadow);
     background: var(--white);
-    display: none;
-}
-.operator .box-container .box:hover .image img{
-    transform: scale(1.1);
 }
 .operator .box-container .box .image{
     height: 25rem;

@@ -35,16 +35,14 @@
 </section>
 
 <!-- header section ends -->
-<div class="heading" style="">
 
 </div>
 
 
 <!-- operators section starts -->
 <section class="operator">
-    <h1 class="heading">Tour operators</h1>
+    <h1 class="heading-title">Tour operators</h1>
     <div class="box-container">
-
         <div class="box">
             <div class="image">
                 <img src="images/operator-1.jpg" alt="">
@@ -58,10 +56,10 @@
 
         <div class="box">
             <div class="image">
-                <img src="images/operator-2.jpg" alt="">
+                <img src="images/operator.jpg" alt="">
             </div>
             <div class="content">
-                <h3>Ivailo Jivkov</h3>
+                <h3>Ivaylo Jivkov</h3>
                 <p>+359 899 334 237</p>
                 <p>ivailo@gmail.com</p>
             </div>
@@ -69,7 +67,7 @@
 
         <div class="box">
             <div class="image">
-                <img src="images/operator-3.jpg" alt="">
+                <img src="images/operator3.jpg" alt="">
             </div>
             <div class="content">
                 <h3>Kameliq Jordanova</h3>
@@ -77,7 +75,9 @@
                 <p>kameliq@gmail.com</p>
             </div>
         </div>
-
+        <div class="load-more">
+            <a href="package.php" class="btn">Load More</a>
+        </div>
     </div>
 </section>
 
