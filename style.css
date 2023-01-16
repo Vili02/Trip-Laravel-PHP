@@ -482,6 +482,7 @@ section{
     flex-wrap: wrap;
     gap: 3rem;
 }
+
 .privacy .content{
     flex:1 1 41rem;
     text-align: center;
@@ -497,6 +498,48 @@ section{
     color:var(--light-black);
     line-height: 2;
     padding:1rem 0;
+}
+.operator{
+    background: var(--light-bg);
+}
+
+.operator .box-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    gap: 2rem;
+}
+.operator .box-container .box{
+    border:var(--border);
+    box-shadow: var(--box-shadow);
+    background: var(--white);
+    display: none;
+}
+.operator .box-container .box:hover .image img{
+    transform: scale(1.1);
+}
+.operator .box-container .box .image{
+    height: 25rem;
+    overflow: hidden;
+}
+.operator .box-container .box .image img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    transition: .2s linear;
+}
+.operator .box-container .box .content{
+    padding: 2rem;
+    text-align: center;
+}
+.operator .box-container .box .content h3{
+    font-size:  2.5rem;
+    color: var(--black);
+}
+.operator .box-container .box .content p{
+    font-size:  1.5rem;
+    color: var(--light-black);
+    line-height: 2;
+    padding: 1rem 0;
 }
 
 

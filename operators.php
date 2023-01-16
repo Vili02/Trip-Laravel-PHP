@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Book</title>
+    <title>Privacy policy</title>
 
     <!--swiper css link -->
     <link rel="stylesheet"
@@ -22,7 +22,7 @@
 <body>
 <!-- header section starts -->
 <section class="header">
-    <a href="home.php" class="logo">TravelExpress</a>
+    <a href="#" class="logo">TravelExpress</a>
 
     <nav class="navbar">
         <a href="home.php">Home</a>
@@ -35,59 +35,55 @@
 </section>
 
 <!-- header section ends -->
-<div class="heading" style="background: url(images/header-bg-3.png) no-repeat">
-    <h1>Book now</h1>
+<div class="heading" style="">
+
 </div>
 
-<!-- booking section starts-->
-<section class="booking">
-    <h1 class="heading-title">Book your trip!</h1>
-    <form action="book_form.php" method="post" class="book-form">
-        <div class="flex">
-            <div class="inputBox">\
-            <span>Name:</span>
-            <input type="text" placeholder="Enter your name.." name="name">
-            </div>
 
-            <div class="inputBox">\
-                <span>Email:</span>
-                <input type="email" placeholder="Enter your email.." name="email">
-            </div>
+<!-- operators section starts -->
+<section class="operator">
+    <h1 class="heading">Tour operators</h1>
+    <div class="box-container">
 
-            <div class="inputBox">\
-                <span>Phone number:</span>
-                <input type="number" placeholder="Enter your phone number.." name="number">
+        <div class="box">
+            <div class="image">
+                <img src="images/operator-1.jpg" alt="">
             </div>
-
-            <div class="inputBox">\
-                <span>Address:</span>
-                <input type="address" placeholder="Enter your address.." name="address">
-            </div>
-
-            <div class="inputBox">\
-                <span>Where to:</span>
-                <input type="text" placeholder="Place you want to visit.." name="location">
-            </div>
-
-            <div class="inputBox">\
-                <span>Arrivals:</span>
-                <input type="date" name="arrivals">
-            </div>
-
-            <div class="inputBox">\
-                <span>Leaving:</span>
-                <input type="date" name="leaving">
+            <div class="content">
+                <h3>Velislava Asparuhova</h3>
+                <p>+359 878 455 123</p>
+                <p>velislava@gmail.com</p>
             </div>
         </div>
 
-        <input type="submit" value="submit" class="btn" name="Send"
-    </form>
+        <div class="box">
+            <div class="image">
+                <img src="images/operator-2.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Ivailo Jivkov</h3>
+                <p>+359 899 334 237</p>
+                <p>ivailo@gmail.com</p>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/operator-3.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Kameliq Jordanova</h3>
+                <p>+359 882 788 690</p>
+                <p>kameliq@gmail.com</p>
+            </div>
+        </div>
+
+    </div>
 </section>
 
-<!-- booking section ends-->
 
 
-
+<!-- operators section ends -->
 
 
 <!-- footer section starts -->
@@ -104,7 +100,7 @@
         <div class="box">
             <h3>Extra Links</h3>
             <a href="#"><i class="fas fa-angle-right"></i>Ask questions</a>
-            <a href="#"><i class="fas fa-angle-right"></i>Tour operators</a>
+            <a href="operators.php"><i class="fas fa-angle-right"></i>Tour operators</a>
             <a href="privacypolicy.php"><i class="fas fa-angle-right"></i>Privacy policy</a>
             <a href="#"><i class="fas fa-angle-right"></i>Terms of use</a>
         </div>

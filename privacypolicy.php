@@ -22,7 +22,7 @@
 <body>
 <!-- header section starts -->
 <section class="header">
-    <a href="home.php" class="logo">TravelExpress</a>
+    <a href="#" class="logo">TravelExpress</a>
 
     <nav class="navbar">
         <a href="home.php">Home</a>
@@ -35,13 +35,14 @@
 </section>
 
 <!-- header section ends -->
-<div class="heading" style="background: url(images/header-bg-1.png) no-repeat">
-    <h1>Privacy policy</h1>
+<div class="heading" style="background: url(images/privacy.jpg) no-repeat">
+
 </div>
 
 
 <!-- privacy section starts -->
 <section class="privacy">
+
     <div class="content">
         <h3>Privacy policy</h3>
         <p>What personal data do we collect?
@@ -81,15 +82,6 @@
 
 
 <!-- privacy section ends -->
-
-
-
-
-
-
-
-
-
 
 
 
