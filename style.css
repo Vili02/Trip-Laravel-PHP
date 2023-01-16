@@ -476,6 +476,30 @@ section{
     margin-top: 2rem ;
 }
 
+.privacy {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 3rem;
+}
+.privacy .content{
+    flex:1 1 41rem;
+    text-align: center;
+}
+
+.privacy .content h3{
+    font-size: 3rem;
+    color:var(--black);
+}
+
+.privacy .content p{
+    font-size: 1.5rem;
+    color:var(--light-black);
+    line-height: 2;
+    padding:1rem 0;
+}
+
+
 .footer{
     background: url(images/footer-bg.jpg) no-repeat;
     background-size: cover;
